@@ -1,4 +1,4 @@
-CECS 275 Programming and Data Structures Final Project
+Banking Program Project
 
 Authors: (other 2 names are abbreviated for privacy)
 Rod Agatep, M.M, K.T
